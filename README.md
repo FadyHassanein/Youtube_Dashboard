@@ -67,9 +67,9 @@ This repository contains a **Streamlit-based dashboard** for visualizing and ana
 ## Example Screenshots
 
 ### Aggregate Metrics
-![Aggregate Metrics Screenshot](./screenshots/aggregate_metrics.png)
+![Aggregate Metrics Screenshot](./screenshots/aggregate_metrices.png)
 
 ### Individual Video Analysis
-![Individual Video Analysis Screenshot](./screenshots/individual_video_analysis.png)
+![Individual Video Analysis Screenshot](./screenshots/video_analysis.png)
 
 
